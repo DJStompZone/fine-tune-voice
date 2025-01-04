@@ -1,6 +1,6 @@
 # fine-tune-voice
-Attempting to train a NN on my own voice.
-What could *possibly* go wrong?
+![Polish_20250104_085011789](https://github.com/user-attachments/assets/44e89073-86d0-4c57-b4a7-e141987e5601)
+
 
 Copyright
 ---------
